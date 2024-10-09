@@ -70,3 +70,7 @@ availability.
 booking.
 23. Admin Management: Comprehensive admin panel for
 system control and management.
+
+Google drive link of the entire project
+---------------------------------------
+[https://drive.google.com/file/d/1bZ9EfzDzf_P6IRrpdC8Zymo_grodTwEv/view?usp=drive_link](https://drive.google.com/file/d/1bZ9EfzDzf_P6IRrpdC8Zymo_grodTwEv/view?usp=sharing)
