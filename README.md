@@ -73,4 +73,5 @@ system control and management.
 
 Google drive link of the entire project
 ---------------------------------------
+First send me a mail for which intention you are going to use the project, though the link provided below is restricted you need to request. Thank you.
 [https://drive.google.com/file/d/1bZ9EfzDzf_P6IRrpdC8Zymo_grodTwEv/view?usp=drive_link](https://drive.google.com/file/d/1bZ9EfzDzf_P6IRrpdC8Zymo_grodTwEv/view?usp=sharing)
