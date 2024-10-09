@@ -1,3 +1,7 @@
+Awarded 1st runner-up prize.
+---------------------------
+The project RadiantHub was awarded 1st runner-up prize in UIU-CSE-project-show in summer-2024 semester among 73 teams in the section of Database Management system Laboratory. The project was developed by me and my friend Md Rahadul Islam Jishan most of the frontend part was developed by Rahadul islam jisan and I created most of the backend and database part. The same credit goes to jisan. 
+
 Motivation behind the project RadiantHub
 ----------------------------------------
 Our project addresses the prevalent issues faced by people in Bangladesh when
